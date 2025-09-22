@@ -24,6 +24,8 @@ This project applies **machine learning techniques** to predict crop yields usin
 
 ## 🔍 Methodology
 
+![Crop Yield Prediction Workflow](pic/crop_workflow.png)
+
 ### 1. **Exploratory Data Analysis (EDA)**
 
 * Studied **crop yield trends** across countries and crops.
