@@ -1,6 +1,9 @@
 
 # 🌾 Crop Yield Prediction Using Machine Learning
 
+[📄 Click here to view the PDF](https://drive.google.com/file/d/15tzq8ENHPErTIXScQqKu4mf7kXsiV2DV/view?usp=drive_link)
+
+
 ## 📌 Overview
 
 This project applies **machine learning techniques** to predict crop yields using environmental and agricultural variables. The goal is to provide a **data-driven decision-support tool** for sustainable agriculture, helping reduce reliance on chemical inputs by highlighting the stronger role of **climatic and biological factors**.
