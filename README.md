@@ -1,7 +1,6 @@
 
 # 🌾 Crop Yield Prediction Using Machine Learning
 
-[📄 Click here to view the PDF](https://drive.google.com/file/d/15tzq8ENHPErTIXScQqKu4mf7kXsiV2DV/view?usp=drive_link)
 
 
 ## 📌 Overview
